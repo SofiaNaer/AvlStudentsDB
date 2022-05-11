@@ -1,0 +1,99 @@
+Moshe Cohen
+2234
+2
+89.6
+
+Maayan Aroki
+5590
+1
+79.4
+
+David Rahamim
+111
+2
+90.7
+
+Shalom Arok
+672
+2
+67.2
+
+Hofit Teka
+4422
+3
+78.6
+
+Dorin Cohener
+2009
+2
+99.6
+
+Michael Or
+1118
+1
+78.4
+
+Rahamim Shoham
+7790
+2
+75.9
+
+Shalom Ashoal
+4401
+2
+62.2
+
+Maor Zaoda
+5678
+3
+91.8
+
+Orel Cohen
+1342
+2
+89.1
+
+Linoy Shokron
+9876
+1
+80.0
+
+Adi Ezra
+1908
+2
+60.4
+
+Shani Elkobi
+6555
+2
+92.1
+
+Kim Kar
+1224
+3
+64.6
+
+Guy Sharon
+5699
+2
+57.9
+
+Ofek Gabay
+6721
+1
+83.9
+
+Yarden Atir
+8003
+3
+79.9
+
+Dganit Ofek
+9908
+3
+92.2
+
+Avi Gor
+1278
+3
+83.6
